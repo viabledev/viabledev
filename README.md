@@ -1,4 +1,4 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/937/885/158/sky-mountains-black-clouds-wallpaper-preview.jpg)]
+![MasterHead](https://t4.ftcdn.net/jpg/01/42/56/97/360_F_142569702_fICuTxOiAODLRN5QaXmEuP30mbiA6OEb.jpg)
 
 <h1 align="center">Hey, I'm Deva Krishna</h1>
 <h3 align="center">A hobbyist programmer</h3>
