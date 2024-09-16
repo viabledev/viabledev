@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Deva Krishna</h1>
 <h3 align="center">A hobbyist programmer</h3>
 
-<br>
+<img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
