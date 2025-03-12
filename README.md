@@ -1,6 +1,7 @@
 
 <h1 align="center">Hey, I'm Deva Krishna</h1>
 <h3 align="center">A hobbyist programmer</h3>
+<h3 align="center">I stand for open-source and GNU/Linux</h3>
 
 <img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
 
